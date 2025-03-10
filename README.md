@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am Rafael, founder of [Stackomate](https://stackomate.com), a Brazilian web-development company.
 
+I am a senior full-stack TypeScript developer with a primary focus on creating front-end interfaces. I hold a bachelor's degree in Computer Science (2023) and another in Science and Technology (2019), both from the Federal University of ABC (UFABC). My previous experience also includes working on typical DevOps tasks, such as setting up monorepos and configuring CI/CD pipelines. In my spare time, I enjoy open-sourcing my side projects.
+
 ## My Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
