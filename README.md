@@ -21,10 +21,15 @@ I am a senior full-stack TypeScript developer with a primary focus on creating f
 
 For more information, feel free to check my websites and social networks:
 
-- [Personal Website](https://rafa.is)
+- [Personal website](https://rafa.is)
 - [LinkedIn](https://www.linkedin.com/in/rafaelcalpena)
 - [Bluesky](https://bsky.app/profile/rafaelcalpena.bsky.social)
 - [Mastodon](https://mastodon.social/@rafaelcalpena)
+
+- [Stackomate's website](https://stackomate.com)
+- [Stackomate on Github](https://github.com/stackomate)
+- [Stackomate on Bluesky](https://bsky.app/profile/stackomate.com) 
+- [Stackomate on LinkedIn](https://www.linkedin.com/company/stackomate/)
 
 ## My Stack
 
