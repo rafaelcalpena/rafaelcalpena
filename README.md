@@ -19,16 +19,26 @@ I am Rafael, founder of [Stackomate](https://stackomate.com), a Brazilian web-de
 
 I am a senior full-stack TypeScript developer with a primary focus on creating front-end interfaces. I hold a bachelor's degree in Computer Science (2023) and another in Science and Technology (2019), both from the Federal University of ABC (UFABC). My previous experience also includes working on typical DevOps tasks, such as setting up monorepos and configuring CI/CD pipelines. In my spare time, I enjoy open-sourcing my side projects.
 
+---
+
+## Resume
+
+Please check my [resume here](./resume.md)!
+
+---
+
+### Links
+
 For more information, feel free to check my websites and social networks:
 
-### Personal Links
+#### Personal Links
 
 - [Personal website](https://rafa.is)
 - [LinkedIn](https://www.linkedin.com/in/rafaelcalpena)
 - [Bluesky](https://bsky.app/profile/rafaelcalpena.bsky.social)
 - [Mastodon](https://mastodon.social/@rafaelcalpena)
 
-### Stackomate Links
+#### Stackomate Links
 
 - [Stackomate's website](https://stackomate.com)
 - [Github](https://github.com/stackomate)
